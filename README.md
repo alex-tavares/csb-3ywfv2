@@ -11,6 +11,5 @@ The Interactive Greatest Common Divisor (GCD) Visualization is an educational we
 
 ## Demo
 
-[Click here to see the live demo](https://your-demo-link.com](https://alex-tavares.github.io/csb-3ywfv2/)https://alex-tavares.github.io/csb-3ywfv2/)
-
+[Click here to see the live demo](https://alex-tavares.github.io/csb-3ywfv2/)
 Inspired by: https://www.geogebra.org/m/ztbesvsd
